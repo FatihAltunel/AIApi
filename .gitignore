@@ -1,0 +1,63 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Visual Studio
+.vs/
+*.vsidx
+*.vssscc
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Secret Manager
+secrets.json
+
+## NuGet Packages
+*.nupkg
+packages/
+
+## JetBrains Rider
+.idea/
+
+## macOS
+.DS_Store
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Environment Variables & Secrets
+.env
+.env.*
+*.key
+*.secret
+
+## Logs
+*.log
+logs/
+
+## Temporary files
+*.tmp
+*.temp
+
+## Database files
+*.db
+*.sqlite
+*.sqlite3
+
+## SSL Certificates
+*.pfx
+*.p12
+*.pem

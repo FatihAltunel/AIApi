@@ -1,0 +1,6 @@
+@AIApi_HostAddress = http://localhost:5288
+
+GET {{AIApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
